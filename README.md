@@ -1,0 +1,3 @@
+# Bank Management
+
+This Bank Management System is a C-based application leveraging file handling to manage account data persistently. It allows users to create accounts, deposit and withdraw money, and check balances, with all operations stored in a binary file (account.dat). The program uses efficient file management techniques like fread, fwrite, and fseek to update account details securely and ensure data integrity, providing a simple yet effective solution for basic banking operations.
